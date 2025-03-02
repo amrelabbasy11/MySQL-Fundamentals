@@ -15,3 +15,15 @@ SQL-File-GROUP-BY-ORDER-BY — Teaches how to use GROUP BY for grouping records 
 
 SQL-File-LIMIT-ALIASING — Explains how to limit query results using LIMIT and rename columns or tables with aliases.
 
+# How to Use
+
+1. Clone the repository:
+
+2. Open the SQL files with your preferred IDE or MySQL client.
+
+3. Run the queries in your MySQL database to practice and understand the concepts.
+
+#  Requirements
+
+1. MySQL installed (Version 8.0 or higher recommended)
+2. A MySQL client or IDE like MySQL Workbench
