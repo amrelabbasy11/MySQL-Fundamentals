@@ -17,11 +17,11 @@ SQL-File-LIMIT-ALIASING — Explains how to limit query results using LIMIT and 
 
 # How to Use
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/amrelabbasy11/MySQL-Fundamentals.git
 
-2. Open the SQL files with your preferred IDE or MySQL client.
+3. Open the SQL files with your preferred IDE or MySQL client.
 
-3. Run the queries in your MySQL database to practice and understand the concepts.
+4. Run the queries in your MySQL database to practice and understand the concepts.
 
 #  Requirements
 
